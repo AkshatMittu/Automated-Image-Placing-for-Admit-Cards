@@ -9,6 +9,6 @@ This application recognizes the documents uploaded and places them in the right 
 The application worked with 99% accuracy and was able to place the documents in the right field
 
 ## Methodologies:
-Convolution Neural Networks, Transfer Learning Models were used to build this project
+Convolutional Neural Networks, Transfer Learning Models were used to build this project
 
 
